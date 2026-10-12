@@ -7,9 +7,9 @@ Keep project status and technology claims aligned with what is actually implemen
 
 # Hey, I'm Dinesh Reddy 👋
 
-### Aspiring AI Engineer · Python Developer · Generative AI Enthusiast
+### Generative AI Engineer | Full-Stack Developer (Python & MERN) | Automating Businesses with AI
 
-I build practical software projects at the intersection of **Python, AI, automation, and full-stack development**.
+I build practical software at the intersection of **Generative AI, full-stack development, and business workflow automation**.
 
 <a href="https://www.linkedin.com/in/maddula-dinesh-reddy/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/iamdineshreddy"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -20,11 +20,11 @@ I build practical software projects at the intersection of **Python, AI, automat
 
 ## About Me
 
-- 🎯 Focused on building my career in **AI engineering and Python development**.
-- 🤖 Exploring **LLM-powered applications, multi-agent workflows, and AI automation**.
-- 🧩 Interested in turning real-world problems into useful, maintainable software.
-- 🌱 Continuously learning through hands-on projects, experimentation, and collaboration.
-- 💬 Open to conversations about Python, AI projects, software development, and opportunities to learn and contribute.
+- 🤖 Focused on **Generative AI, LLM-powered applications, and multi-agent systems**.
+- 🐍 Building with **Python** and exploring full-stack development across the **MERN ecosystem**.
+- ⚙️ Interested in automating repetitive business workflows with useful, reliable software.
+- 🧠 Learning by designing, building, testing, and improving real-world project prototypes.
+- 🤝 Open to collaborating on AI applications, developer tools, and automation projects.
 
 ## Featured Projects
 
@@ -39,7 +39,7 @@ A research-oriented prototype exploring AI-assisted code review through speciali
 A project focused on helping candidates discover and assess internship opportunities.
 
 - Designed around internship discovery, matching, verification, and fraud-risk screening.
-- Includes plans for structured reports and a web-based workflow; features are under active development.
+- Some features are still under development; check the repository for current implementation status.
 - [View repository →](https://github.com/iamdineshreddy/ai-internship-finder)
 
 ### ✋ Hand Gesture Recognition
@@ -55,8 +55,6 @@ My personal portfolio for presenting projects, skills, and ongoing work.
 - Built with React, TypeScript, Vite, and Tailwind CSS.
 - [View repository →](https://github.com/iamdineshreddy/portfolio) · [Open portfolio](https://dinesh-portfolio-yt4g.onrender.com/)
 
-> I aim to describe projects honestly: prototypes, work in progress, and completed features should be clearly distinguished.
-
 ## Tech Stack
 
 <div align="center">
@@ -65,28 +63,28 @@ My personal portfolio for presenting projects, skills, and ongoing work.
 
 <img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,html,css" alt="Python, Java, JavaScript, C++, C, HTML, CSS">
 
-**AI, Data & Backend**
+**AI, Backend & Data**
 
 <img src="https://skillicons.dev/icons?i=fastapi,flask,opencv,postgres,mysql" alt="FastAPI, Flask, OpenCV, PostgreSQL, MySQL">
 
-**Web Development & Tools**
+**Full-Stack Development & Tools**
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,git,github,docker,vscode" alt="React, Tailwind CSS, Node.js, Git, GitHub, Docker, VS Code">
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,git,github,docker,vscode" alt="MongoDB, Express, React, Node.js, Tailwind CSS, Git, GitHub, Docker, VS Code">
 
 </div>
 
-*My projects use different subsets of these technologies; this is a broad overview, not a claim that every tool is used in every project.*
+*These technologies represent my broader learning and project toolkit; individual projects use different subsets, and not every technology is used in every project.*
 
-## Current Focus
+## What I'm Working Toward
 
-- Strengthening Python, data structures, APIs, and software engineering fundamentals.
-- Building practical AI applications and learning how to evaluate them responsibly.
-- Improving project documentation, testing, deployment, and code quality.
-- Collaborating on meaningful projects and learning from developer communities.
+- Building useful Generative AI applications and exploring agentic workflows.
+- Improving full-stack development skills with Python and MERN technologies.
+- Finding practical opportunities to automate business processes.
+- Strengthening software quality through testing, documentation, and deployment practices.
 
 ## Let's Connect
 
-If you're working on AI, automation, or developer tools, I'd be happy to connect and learn from the community.
+Have an idea involving AI, full-stack development, or workflow automation? Let's connect.
 
 - **LinkedIn:** [Maddula Dinesh Reddy](https://www.linkedin.com/in/maddula-dinesh-reddy/)
 - **GitHub:** [@iamdineshreddy](https://github.com/iamdineshreddy)
@@ -94,5 +92,5 @@ If you're working on AI, automation, or developer tools, I'd be happy to connect
 ---
 
 <div align="center">
-  <i>Build consistently. Learn in public. Improve with every iteration.</i>
+  <i>Build useful things. Automate thoughtfully. Keep improving.</i>
 </div>
