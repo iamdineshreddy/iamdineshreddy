@@ -88,6 +88,7 @@ Have an idea involving AI, full-stack development, or workflow automation? Let's
 
 - **LinkedIn:** [Maddula Dinesh Reddy](https://www.linkedin.com/in/maddula-dinesh-reddy/)
 - **GitHub:** [@iamdineshreddy](https://github.com/iamdineshreddy)
+- **Portfolio:** [Visit my live portfolio](https://dinesh-portfolio-yt4g.onrender.com/)
 
 ---
 
